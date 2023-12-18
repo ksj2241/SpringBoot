@@ -1,0 +1,9 @@
+1. spring Boot 개발자의 대변자인 조쉬롱은 war가 아닌 jar로 배포하라고 함
+	톰캣이 내장되어 있음.
+	
+2. Spring Boot는 Spring MVC나 Spring Framework를 쉽게 배포하게할 수 있는 도구이다.
+	Spring MVC = 심플하게 Rest API 만을 위한 모듈
+	Spring Framework = 의존성 위주
+	
+3. @SpringBootApplication 어노테이션은 다음 3가지 어노테이션을 결합한 것입니다.
+	@SpringBootConfiguration + @EnableAutoConfiguration + @ComponentScan
