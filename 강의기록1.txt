@@ -1,3 +1,6 @@
+learn-spring-boot
+	Spring Web
+
 1. spring Boot 개발자의 대변자인 조쉬롱은 war가 아닌 jar로 배포하라고 함
 	톰캣이 내장되어 있음.
 	
