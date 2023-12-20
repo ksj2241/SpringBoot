@@ -1,3 +1,5 @@
+이클립스나 sts에서 ctrl + space 보다 ctrl + 1 누르면 더 많은 정보가 표시된다.
+
 learn-spring-boot
 	Spring Web
 
