@@ -1,0 +1,7 @@
+Sagger
+	Swagger Specification 과 Swagger Tools를 사용
+	REST API를 문서화 하기 위해 만듦
+	RES API를 시각화 하고 Spec을 관리.
+	
+
+Open API
